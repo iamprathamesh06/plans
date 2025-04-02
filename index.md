@@ -1,8 +1,8 @@
 # Welcome to My Fitness Plan 💪🔥
 
 ## 📌 Available Sections:
-- [Workout Plan](workout.md)
-- [Diet Plan](diet.md)
+- [Workout Plan](Workout.md)
+- [Diet Plan](Diet.md)
 
 Click on any of the links above to view detailed plans.
 
